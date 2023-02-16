@@ -5,18 +5,36 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: 	#E0FFFF;
+}
+
 header {
     margin: 44px 0 144px 76px;
+}
+
+a {
+    text-decoration: none;
 }
 
 .link-header {
     font-weight: 600;
     font-size: 24px;
     line-height: 29px;
-    color: #989d9c;
+    color: #7c8180;
     cursor: pointer;
     margin-right: 23px;
 }
+
+.link-header:hover {
+    opacity: 0.6;
+}
+
+.link-header:active {
+    opacity: 0.4;
+    border-radius: 20px;
+}
+
 
 .button-header {
     background: #665ae1;
@@ -29,6 +47,16 @@ header {
     line-height: 29px;
     color: #ffffff;
     cursor: pointer;
+}
+
+.button-header:hover {
+    opacity: 0.6;
+}
+
+.button-header:active {
+    opacity: 0.5;
+    background-color: #665ae1;
+    border-radius: 20.5;
 }
 
 .logo-image {
@@ -58,11 +86,11 @@ h2 {
 }
 
 p {
-    font-weight: 400;
+    font-weight: 500;
     font-size: 24px;
     line-height: 29px;
-    color: #848484;
-    width: 515px;
+    color: #1a1919;
+    width: 550px;
     margin-top: 32px;
     margin-bottom: 65px;
 }
@@ -79,6 +107,16 @@ p {
     font-size: 28px;
     line-height: 34px;
     color: #000000;
+}
+
+.button-main:hover {
+    opacity: 0.6;
+}
+
+.button-main:active {
+    opacity: 0.5;
+    background-color: #92d10a;
+    border-radius: 20.5;
 }
 
 @media screen and (max-width: 1315px) {
