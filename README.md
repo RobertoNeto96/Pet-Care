@@ -17,7 +17,7 @@
 </h4> 
 <br>
 
-<h3> <i> Fotos representando em cada dispositivo: </i> </h3>
+<h3> <i> Fotos representando responsividade em cada dispositivo: </i> </h3>
 <br>
 
 <h4> <ul> <li> <i> Desktop </i> </li> </ul> </h4>
