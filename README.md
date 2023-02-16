@@ -1,6 +1,11 @@
 <h1> <i> Pet Care </i> </h1>
 
-<h2> <ul> <li> Um Projeto totalmente feito com proposito de treinar a responsividade para <i>Mobiles</i>, com ajuda do metódo de ensinamento do <a href="https://www.linkedin.com/in/rodolfomori" target=_blank> <i> Rodolfo Mori </i> </a> <i> / </i> <a href="https://rodolfomori.com.br/devclub" target=_blank> <i> DevClub </i> </a> </li> </ul> </h2>
+<h2>
+    <ul>
+         <li> Um Projeto totalmente feito com proposito de treinar a responsividade para <i>Mobiles</i>, com ajuda do metódo de ensinamento do <a href="https://www.linkedin.com/in/rodolfomori" target=_blank> <i> Rodolfo Mori </a> / </i> <a href="https://rodolfomori.com.br/devclub" target=_blank> <i> DevClub </i> </a>
+         </li> 
+    </ul> 
+</h2>
 
 <h3> <i> Tecnologias utilizadas para o projeto </i> </h3>
 
